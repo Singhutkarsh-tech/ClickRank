@@ -69,6 +69,9 @@ Builds a full statistical testing pipeline:
 	•	p-value computation
 	•	Required sample size estimation for target power
 
+Architecture:
+<img width="818" height="776" alt="Screenshot 2026-01-02 at 2 25 25 PM" src="https://github.com/user-attachments/assets/bc782bdd-4615-4dd8-bb1c-8d0309633461" />
+
 
 # Results
 
